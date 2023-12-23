@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **ninjago0427@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
