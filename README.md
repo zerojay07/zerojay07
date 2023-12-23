@@ -1,4 +1,6 @@
-## Young Jae's GitHub
+## Welcome to Young Jae's GitHub
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="35%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="35%" style="display:inline;">
 
 <h1 align="center"> Welcome to Young Jae's GitHub👋</h1>
