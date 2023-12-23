@@ -1,9 +1,8 @@
 ## <h1 align="center">Young Jae's GitHub
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME&fontColor=28DC7A&fontSize=90&fontAlignY=35&desc=helloworld!&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME TO YOUNG JAE's GitHub👋&fontColor=28DC7A&fontSize=90&fontAlignY=35&desc=helloworld!&animation=scaleIn)
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="35%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="35%" style="display:inline;">
 
-<h1 align="center"> Welcome to Young Jae's GitHub👋</h1>
 <h3 align="center">A passionate student studying at  Hanyang University</h3>
 <p align="center">I am fascinated aobut computer coding. And also I love exploring new tech stack 💻</p>
 <p align="center"> 
